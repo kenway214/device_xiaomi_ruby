@@ -1374,9 +1374,11 @@ vendor/lib64/vendor.dolby.hardware.dms@2.0.so
 vendor/lib/soundfx/libswdap.so
 vendor/lib/soundfx/libswgamedap.so
 vendor/lib/soundfx/libswvqe.so
+vendor/lib/soundfx/libmisoundfx.so
 vendor/lib64/soundfx/libswdap.so
 vendor/lib64/soundfx/libswgamedap.so
 vendor/lib64/soundfx/libswvqe.so
+vendor/lib64/soundfx/libmisoundfx.so
 
 # Dolby MediaCodecs
 vendor/lib/libstagefright_soft_ac4dec.so
