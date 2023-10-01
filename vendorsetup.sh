@@ -3,7 +3,7 @@ echo 'Starting to clone stuffs needed to build for ruby '
 
 # Vendor
 echo 'Cloning vendor tree'
-rm -rf vendor/xiaomi/ruby  && git clone https://github.com/PQEnablers-Devices/android_vendor_xiaomi_ruby -b lineage-20 vendor/xiaomi/ruby
+rm -rf vendor/xiaomi/ruby  && git clone https://github.com/kenway214/vendor_xiaomi_ruby.git -b lineage-20 vendor/xiaomi/ruby
 
 # Kernel
 echo 'Cloning kernel tree'

@@ -114,7 +114,7 @@ PRODUCT_COPY_FILES += \
 
 # Dolby MediaCodecs Loading Support (Overwrites Vendor files)
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/media/media_codecs_dolby_audio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_dolby_audio.xml
+    $(LOCAL_PATH)/configs/media/media_codecs_dolby_audio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_dolby_audio.xml
 
 # MiSound
 PRODUCT_VENDOR_PROPERTIES += \
